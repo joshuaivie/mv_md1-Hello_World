@@ -1,0 +1,27 @@
+{
+  "name": "md1-hello_world",
+  "version": "1.0.0",
+  "description": "This is a simple hello world project that shows how to configure and apply linters in GitHub workflows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaivie/mv_md1-Hello_World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuaivie/mv_md1-Hello_World/issues"
+  },
+  "homepage": "https://github.com/joshuaivie/mv_md1-Hello_World#readme",
+  "devDependencies": {
+    "hint": "^6.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
